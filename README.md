@@ -54,19 +54,3 @@ Além de automações avançadas e scripts de sistema, atuo fortemente na **loca
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emertels&layout=compact&theme=tokyonight&hide_border=true&title_color=0070F3&text_color=9ba1b0" alt="Top Langs" />
 
 </div>
-
----
-
-### 🌐 Conecte-se Comigo
-
-<div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Emertels)
-[![Website](https://img.shields.io/badge/Website-emertels.github.io-0070F3?style=flat-square&logo=googlechrome&logoColor=white)](https://emertels.github.io)
-[![Discord](https://img.shields.io/badge/Discord-Comunidade%20Oficial-5865F2?style=flat-square&logo=discord&logoColor=white)](https://emertels.github.io/discord)
-[![YouTube](https://img.shields.io/badge/YouTube-@emersonteles2379-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
-[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-24A1DE?style=flat-square&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projetos-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
-[![X](https://img.shields.io/badge/X-@emertels-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emertels)
-
-</div>
