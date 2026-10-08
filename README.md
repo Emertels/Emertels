@@ -30,7 +30,7 @@ Além de automações avançadas e scripts de sistema, atuo fortemente na **loca
 | **Cursor AI** | Pacote portátil de tradução e localização completa do Cursor AI para Português do Brasil. | `v1.1.0` | [Acessar](https://github.com/Emertels/Cursor-Traducao-PTBR) |
 | **Google Antigravity** | Pacote portátil de tradução e localização completa do Google Antigravity Desktop para PT-BR. | `v1.2.0` | [Acessar](https://github.com/Emertels/Antigravity-Traducao-PTBR) |
 | **ZCode Desktop** | Pacote portátil de tradução e localização completa do ZCode Desktop para Português do Brasil. | `v1.1.0` | [Acessar](https://github.com/Emertels/ZCode-Traducao-PTBR) |
-| **Codex Router** | Pacote portátil de tradução e localização completa do Codex Router Control Center para PT-BR. | `v1.2.4` | [Acessar](https://github.com/Emertels/CodexRouter-Traducao-PTBR) |
+| **Codex Router** | Pacote portátil de tradução e localização completa do Codex Router Control Center para PT-BR. | `v1.0.0` | [Acessar](https://github.com/Emertels/CodexRouter-Traducao-PTBR) |
 
 ---
 
