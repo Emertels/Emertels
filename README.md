@@ -23,16 +23,33 @@ Além de automações avançadas e scripts de sistema, atuo fortemente na **loca
 
 ---
 
-### 🛠️ Automação, Emulação & Utilitários de Alta Precisão
+### 🛠️ Automação, Softwares & Utilitários de Sistema
 
 | Projeto | Descrição | Tecnologia | Repositório |
 | :--- | :--- | :---: | :---: |
+| **ICSee Desktop Viewer** | Aplicativo desktop moderno e portátil para visualização e controle de câmeras ICSee e ONVIF no Windows. | Python / PyQt6 | [Acessar](https://github.com/Emertels/ICSee-Desktop-Viewer) |
+| **Xbox 360 Calibration Tool** | Ferramenta profissional para calibração avançada de controles Xbox 360 e compatíveis no Windows. | Python / CustomTkinter | [Acessar](https://github.com/Emertels/Xbox-360-Controller-Calibration-Tool) |
 | **PSBBN Translator** | Suíte corporativa de tradução e localização automatizada para o PSBBN Definitive Project (PS2) em 40 idiomas. | Python / XML | [Acessar](https://github.com/Emertels/PSBBN-Translator) |
 | **Suíte de Emuladores** | Suíte inteligente em PowerShell para download e atualização autônoma de 56 emuladores de jogos e frontends no Windows. | PowerShell | [Acessar](https://github.com/Emertels/Suite-Emuladores) |
 | **AI-Chat-Vault** | Backup portátil e recuperação cirúrgica de conversas locais de 20 IAs agênticas e ferramentas de programação. | PowerShell | [Acessar](https://github.com/Emertels/AI-Chat-Vault) |
 | **Microsoft-Photos-Fix** | Solução avançada PowerShell e C# para corrigir rota de inicialização rápida e papéis de parede no app Fotos do Windows. | PowerShell / C# | [Acessar](https://github.com/Emertels/Microsoft-Photos-Fix) |
 | **Roccat-Syn-Pro-Air-Fix** | Suíte definitiva de estabilização de áudio, watchdog e blindagem contra perdas de sinal para o headset ROCCAT Syn Pro Air. | PowerShell | [Acessar](https://github.com/Emertels/Roccat-Syn-Pro-Air-Fix) |
 | **Portal Web Multilíngue** | Portal oficial interativo e multilíngue com suporte nativo a 10 idiomas reunindo todas as ferramentas e canais. | HTML / CSS / JS | [Acessar](https://github.com/Emertels/emertels.github.io) |
+
+---
+
+### 🌐 Traduções & Localização Técnica (PT-BR)
+
+| Projeto | Descrição | Status | Repositório |
+| :--- | :--- | :---: | :---: |
+| **Google Antigravity Desktop** | Tradução e localização completa do Google Antigravity para Português do Brasil. | Concluído | [Acessar](https://github.com/Emertels/Antigravity-Traducao-PTBR) |
+| **Cursor AI** | Localização completa da IDE, Composer, chat do agente e menus em PT-BR. | Concluído | [Acessar](https://github.com/Emertels/Cursor-Traducao-PTBR) |
+| **Devin AI Desktop** | Tradução cirúrgica do ambiente desktop do Devin AI para Português do Brasil. | Concluído | [Acessar](https://github.com/Emertels/Devin-Traducao-PTBR) |
+| **ZCode Desktop** | Tradução completa com menu de bandeja, persistência e skills nativas em PT-BR. | Concluído | [Acessar](https://github.com/Emertels/ZCode-Traducao-PTBR) |
+| **Codex Router Control Center** | Tradução e localização da central de controle unificada em PT-BR. | Concluído | [Acessar](https://github.com/Emertels/CodexRouter-Traducao-PTBR) |
+| **Silent Hill: Homecoming** | Tradução e revisão PT-BR completa para PC com instalador automatizado. | Concluído | [Acessar](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) |
+| **Silent Hill: Homecoming (Camera Fix)** | Correção de sensibilidade independente e suporte nativo a controles. | Concluído | [Acessar](https://github.com/Emertels/Silent-Hill-5-Camera-Fix) |
+| **GPU Tweak III** | Tradução e localização em português brasileiro para ASUS GPU Tweak III. | Concluído | [Acessar](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) |
 
 ---
 
