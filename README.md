@@ -48,6 +48,7 @@ Além de automações avançadas e scripts de sistema, atuo fortemente na **loca
 | **ZCode Desktop** | Tradução completa com menu de bandeja, persistência e skills nativas em PT-BR. | Concluído | [Acessar](https://github.com/Emertels/ZCode-Traducao-PTBR) |
 | **Codex Router Control Center** | Tradução e localização da central de controle unificada em PT-BR. | Concluído | [Acessar](https://github.com/Emertels/CodexRouter-Traducao-PTBR) |
 | **Silent Hill: Homecoming** | Tradução e revisão PT-BR completa para PC com instalador automatizado. | Concluído | [Acessar](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) |
+| **Silent Hill 4: The Room** | Tradução canônica e completa para PC (GOG) em português brasileiro. | Concluído | [Acessar](https://github.com/Emertels/Silent-Hill-4-The-Room-Traducao-PTBR) |
 | **Silent Hill: Homecoming (Camera Fix)** | Correção de sensibilidade independente e suporte nativo a controles. | Concluído | [Acessar](https://github.com/Emertels/Silent-Hill-5-Camera-Fix) |
 | **GPU Tweak III** | Tradução e localização em português brasileiro para ASUS GPU Tweak III. | Concluído | [Acessar](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) |
 
