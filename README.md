@@ -58,7 +58,7 @@ Além de automações avançadas e scripts de sistema, atuo fortemente na **loca
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Emertels&show_icons=true&theme=tokyonight&hide_border=true&title_color=0070F3&text_color=9ba1b0&icon_color=5865F2" alt="GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emertels&layout=compact&theme=tokyonight&hide_border=true&title_color=0070F3&text_color=9ba1b0" alt="Top Langs" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=Emertels&show_icons=true&theme=tokyonight&hide_border=true&title_color=0070F3&text_color=9ba1b0&icon_color=5865F2" alt="GitHub Stats" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Emertels&layout=compact&theme=tokyonight&hide_border=true&title_color=0070F3&text_color=9ba1b0" alt="Top Langs" />
 
 </div>
