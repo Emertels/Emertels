@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá! Sou Emerson Teles (@Emertels)
+# Olá! Sou Emerson Teles (@Emertels)
 
 ### Desenvolvedor • Automação Inteligente • Engenharia Reversa • Tradutor Técnico & Localização
 
